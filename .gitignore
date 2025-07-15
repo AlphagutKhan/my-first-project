@@ -138,6 +138,6 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 
-#Şifreler
+#Şifreler - 2. deneme
 secret.md
 
