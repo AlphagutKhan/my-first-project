@@ -1,0 +1,2 @@
+Denemeler denemeler
+İnşallah başaracağım
